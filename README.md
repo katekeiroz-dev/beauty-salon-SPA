@@ -14,7 +14,8 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="/Users/katekeiroz/Desktop/nlw-06-origin-main/.github/Screenshot 2021-07-21 at 21.51.03.png"
+   width="100%">
 </p>
 
 ## 🚀 Tecnologias
