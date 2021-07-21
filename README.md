@@ -30,6 +30,8 @@ Fonts img /icons
 
 BeautySalon is an institutional page in SPA format (single page application), responsive, to be used in different types of micro, small and medium companies.
 
+This project was developed in order to put into practice knowledge learnt from Rockseat nlw course.
+
 ## 🔖 Responsive Layout
 
 <img width="212" alt="Screenshot 2021-07-21 at 21 53 08" src="https://user-images.githubusercontent.com/81806904/126560681-bf48cff8-7e5a-42a1-8031-9a09be33700a.png">
@@ -37,8 +39,8 @@ BeautySalon is an institutional page in SPA format (single page application), re
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md) .
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Kate Keiroz 
