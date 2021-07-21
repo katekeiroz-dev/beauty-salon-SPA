@@ -11,6 +11,9 @@
 
 <img width="1776" alt="Screenshot 2021-07-21 at 21 51 03" src="https://user-images.githubusercontent.com/81806904/126559219-f11c8228-604b-4e94-8b8f-7f7243bde7c2.png">
 
+## ⬇️ Live view 
+Check out this project by [click here](https://beauty-salon-spa.netlify.app)
+
 ## 🚀 Technologies
 
 - HTML
