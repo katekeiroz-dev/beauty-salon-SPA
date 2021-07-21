@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
@@ -13,39 +7,35 @@
 
 <br>
 
-<p align="center">
-  <img alt="OriginSix" src="/Users/katekeiroz/Desktop/nlw-06-origin-main/.github/Screenshot 2021-07-21 at 21.51.03.png"
-   width="100%">
-</p>
+<img width="1776" alt="Screenshot 2021-07-21 at 21 51 03" src="https://user-images.githubusercontent.com/81806904/126559219-f11c8228-604b-4e94-8b8f-7f7243bde7c2.png">
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
 
 - HTML
 - CSS
 - JavaScript
 
-Bibliotecas
+Libs
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollRevel](https://scrollrevealjs.org)
 
-Utilitários
+Fonts img /icons
 
 - [randomuser.me](https://randomuser.me/photos)
 - [IconMoon](https://icomoon.io/app/#/select)
 
-## 💻 Projeto
+## 💻 Project
 
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+BeautySalon is an institutional page in SPA format (single page application), responsive, to be used in different types of micro, small and medium companies.
 
-## 🔖 Layout
+## 🔖 Responsive Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<img width="212" alt="Screenshot 2021-07-21 at 21 53 08" src="https://user-images.githubusercontent.com/81806904/126560681-bf48cff8-7e5a-42a1-8031-9a09be33700a.png">
 
-## 📝 Licença
+
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
