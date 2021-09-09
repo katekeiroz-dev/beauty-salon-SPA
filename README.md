@@ -46,6 +46,6 @@ This project was developed in order to put into practice knowledge learnt from R
 
 This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md) .
 
----
+----------
 
-Made with ♥ by Kate Keiroz 
+Made with ♥ by Kate Keiroz.
